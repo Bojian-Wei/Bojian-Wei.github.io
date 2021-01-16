@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Bojian Wei</h1>
-      <p><b>Postgraduate Student</b></p>
+      <p><b>Post-graduate Student</b></p>
       <p><b>Institute of Information Engineering, Chinese Academy of Sciences</b></p>
       <p><b>E-mail：weibojian@iie.ac.cn</b></p>
       <p><b>Location: Beijing, China</b></p>
