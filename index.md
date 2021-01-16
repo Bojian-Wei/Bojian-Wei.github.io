@@ -13,10 +13,10 @@
   </tr>
 </table>
 
-### Research Direction
+### Research Directions
 - Machine Learning
 - Federated Learning
 
 ### Recent News
 
-### Papers
+### Papers & Projects
